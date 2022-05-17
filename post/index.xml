@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on 理想気体のブログ</title><link>https://directkidman.github.io/post/</link><description>Recent content in Blog on 理想気体のブログ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://directkidman.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Math Typesetting</title><link>https://directkidman.github.io/p/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://directkidman.github.io/p/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on 理想気体のブログ</title><link>https://directkidman.github.io/post/</link><description>Recent content in Blog on 理想気体のブログ</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://directkidman.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>初めてのブログ</title><link>https://directkidman.github.io/p/hello-world/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://directkidman.github.io/p/hello-world/</guid><description>&lt;img src="https://directkidman.github.io/p/hello-world/cover.jpg" alt="Featured image of post 初めてのブログ" />&lt;p>とりあえず、普通にブログとして打ってみるんだけれど、中国フォントになってたらいやだな。
+直し方がよくわからないからね&amp;hellip;&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+>Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Math Typesetting</title><link>https://directkidman.github.io/p/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://directkidman.github.io/p/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
 &lt;p>In this example we will be using &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
 >KaTeX&lt;/a>&lt;/p>
 &lt;ul>
@@ -26,6 +32,7 @@
 &lt;p>&lt;strong>Note:&lt;/strong> Use the online reference of &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
 >Supported TeX Functions&lt;/a>&lt;/p>
 &lt;h3 id="examples">Examples&lt;/h3>
+&lt;p>$\frac{1}{2}$は見える？&lt;/p>
 &lt;p>Block math:
 $$
 \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
